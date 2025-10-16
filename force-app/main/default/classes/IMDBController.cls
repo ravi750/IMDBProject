@@ -1,4 +1,4 @@
-public static void class IMDBController {
+public class IMDBController {
 
     public static void restApiCallout() {
         
